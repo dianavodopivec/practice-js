@@ -1,4 +1,4 @@
-
+/*
 let odita = "odota"
 console.log (odita)
 
@@ -34,5 +34,6 @@ console.log (numerito4)
 let numeritosLogico1 = 20 > 0 && 0 > 4;
 console.log (numeritosLogico1)
 
-let numeritosLogico2 = 8 != 9 || 92 > 91;
-console.log (numeritosLogico2)
+let numeritosLogico2 = 8 != 9 || 80 > 91;
+console.log (numeritosLogico2) 
+*/
