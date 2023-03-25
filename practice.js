@@ -1,10 +1,11 @@
 // (1) Varios LET con Distintos Datos Primitivos //
 
-let colorDePantalon = ("Negro")
+/*
+let colorDePantalon = "Negro"
 colorDePantalon = "Azul"
 console.log (colorDePantalon)
 
-let cantidadDeManzanas = (4)
+let cantidadDeManzanas = 4
 cantidadDeManzanas = 7
 console.log (cantidadDeManzanas)
 
@@ -18,10 +19,10 @@ console.log (ireAEstudiar)
 
 // (2) Varios CONST con distintos tipos de Datos Primitivos //
 
-const colorDePiel = ("Blanco")
+const colorDePiel = "Blanco"
 console.log (colorDePiel)
 
-const fechaDeNacimiento = (17112000)
+const fechaDeNacimiento = 17112000
 console.log (fechaDeNacimiento)
 
 const ojosVerdes = true
@@ -59,7 +60,7 @@ console.log (planetas1)
 
 // (5) Objeto + Propiedades (datos primitivos) + objeto + Array //
 
-let Gato = {
+let gato = {
     nombre: "Raul",
     edad: 6,
     seBaño: false,
@@ -72,8 +73,9 @@ let Gato = {
     }
 }
 
-console.log (Gato)
+console.log (gato)
 
 // Typeof de Objeto anterior //
 
 console.log (typeof Gato.suAmigaGatuna.coloresDelGato[0])
+*/
